@@ -1,0 +1,5 @@
+Dockerfile
+.env.examples
+__pycache__/
+*/__pycache__/
+venv/
